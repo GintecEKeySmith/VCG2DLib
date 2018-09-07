@@ -19,7 +19,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 The library provides basic functionalities with version 0.1v:
 
-Draw lines, splines in various coloros
+Draw lines, splines in colors
 Draw Polygones (combination of lines and splines)
 Fill Polygones (one color, color gradient (at the moment x has to be positive)
 
